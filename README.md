@@ -1,6 +1,7 @@
 <h3 align="center">🚀 Hi, I'm Leonid and I'm a .NET Developer Eager to Gain Commercial Experience </h3>
 
   Hello there! 👋 I am passionate about .NET development and currently seeking opportunities to contribute and grow as a professional developer. While my commercial experience may be limited, my enthusiasm, dedication, and commitment to learning are boundless. I am ready to embrace challenges, collaborate with dynamic teams, and leverage every opportunity to enhance my skills. Let's connect and explore how I can bring my motivation and eagerness to contribute to your projects. 🌟
+  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=acurasa&label=Profile%20views&color=0e75b6&style=flat" alt="acurasa" /> </p>
 
 <h3 align="left">Connect with me:</h3>
