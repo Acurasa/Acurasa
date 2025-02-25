@@ -1,6 +1,8 @@
-<h3 align="center">🚀 Hi, I'm Leonid and I'm a .NET Developer  </h3>
+<h3 align="center">Hi, I’m Leonid – a .NET & JS Developer </h3>
 
-  Hello there! 👋 I am passionate about .NET development and currently seeking opportunities to contribute and grow as a professional developer.б I am ready to embrace challenges, collaborate with dynamic teams, and leverage every opportunity to enhance my skills. Let's connect and explore how I can bring my eagerness to contribute to your projects. 🌟
+
+
+Hello! 👋 I specialize in web development, primarily working with .NET and JavaScript along with various frameworks. I am always looking for ways to improve my skills and create high-quality, efficient solutions. Open to collaboration and exciting projects – let’s connect!
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=acurasa&label=Profile%20views&color=0e75b6&style=flat" alt="acurasa" /> </p>
 
