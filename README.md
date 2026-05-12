@@ -1,6 +1,6 @@
 ### Hi, I’m Leonid – a Software developer, specializing in .NET
 
-Hello! 👋 I specialize in web development, primarily working with .NET and JavaScript along with various frameworks. I am always looking for ways to improve my skills and create high-quality, efficient solutions. Open to collaboration and exciting projects. Looking to expand into software engineering, specializing in C | Cpp and low-level programming
+Hello! 👋 I specialize in web development, primarily working with .NET and JavaScript along with various frameworks. I am always looking for ways to improve my skills and create high-quality, efficient solutions. Open to collaboration and exciting projects.
 ---
 
 <p align="center">
